@@ -2,8 +2,8 @@
 This is an application deployed in heroku, it lets users save notes.
 
 ## Methods Used :
-2.HTML
-3.Css
+1.HTML
+2.CSS
 3.Javascript
 
 ## heroku link
